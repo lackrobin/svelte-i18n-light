@@ -1,6 +1,11 @@
 # Lightweight I18N for Svelte Apps
 
+
 ## Usage
+
+Installation:
+
+`npm install svelte-i18n-light`
 
 1. create a translation file:
 
