@@ -1,0 +1,21 @@
+{
+  "name": "svelte-i18n-light",
+  "version": "1.0.0",
+  "description": "Lightweight internationalization and translation for svelte",
+  "main": "i18n.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "svelte",
+    "i18n",
+    "translate",
+    "internationalization"
+  ],
+  "author": "rolator",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "svelte": "^3.0.0"
+  }
+}
