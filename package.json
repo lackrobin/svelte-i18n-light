@@ -1,6 +1,6 @@
 {
   "name": "svelte-i18n-light",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight internationalization and translation for svelte",
   "main": "i18n.js",
   "scripts": {
