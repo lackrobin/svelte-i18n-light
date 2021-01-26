@@ -9,16 +9,16 @@ Installation:
 
 1. create a translation file:
 
-translations.js
+translations.json
 
 ```js
 
-export default {
-  en: {
-      hello: "hello world"
+{
+  "en": {
+      "hello": "hello world"
   },
-  de: {
-      hello: "hallo Welt"
+  "de": {
+      "hello": "hallo Welt"
   }
 
 ```
